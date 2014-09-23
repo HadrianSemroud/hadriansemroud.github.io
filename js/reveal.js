@@ -1312,7 +1312,7 @@ var Reveal = (function(){
 	/**
 	 * Toggles the slide overview mode on and off.
 	 *
-	 * @param {Boolean} override Optional flag which overrides the
+	 * @param Boolean} override Optional flag which overrides the
 	 * toggle logic and forcibly sets the desired state. True means
 	 * overview is open, false means it's closed.
 	 */
