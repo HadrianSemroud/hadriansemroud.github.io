@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="060e8183-55dc-4648-8420-b637266199f0" name="Default" comment="">
+    <list default="true" id="060e8183-55dc-4648-8420-b637266199f0" name="Default" comment="add STR flash game full screen option">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/background-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/batiment_chateau-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/buttongo-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/camiondidierhover-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/camionmarmiton-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/camionretourhud-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/check-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/commandeshud_bourgogne-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/commandeshudvalidée3-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/fermer_reward-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/hudrecompense-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/icon-114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/icon-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/icon-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/icon-256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/icon-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/level1frame-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/loading-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/pathcrossbottomleft-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/pathleft-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/sprite-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/sprite2-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/sprite2-sheet1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/sprite3-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/stockage-sheet0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/tiledbackground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/app.manifest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/c2runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/jquery-2.0.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/offline.appcache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -39,8 +70,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2945129" vertical-offset="663" max-vertical-offset="7191">
-              <caret line="107" column="75" selection-start-line="107" selection-start-column="75" selection-end-line="107" selection-end-column="75" />
+            <state vertical-scroll-proportion="0.7374429" vertical-offset="1377" max-vertical-offset="7191">
+              <caret line="119" column="25" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#section#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -181,16 +212,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reveal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -259,12 +280,40 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="hadriansemroud.github.io">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="assets">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pictures">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reveal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vinoga-game" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
   </component>
@@ -366,7 +415,11 @@
       <created>1411482543094</created>
       <updated>1411482543094</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add STR flash game full screen option">
+      <created>1411635201992</created>
+      <updated>1411635201992</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -378,7 +431,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.088541664" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17864583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -441,12 +494,79 @@
     <MESSAGE value="Add bootstrap + assets" />
     <MESSAGE value="finalize 1 parts (CV contact and Pres)" />
     <MESSAGE value="add STR flash game !" />
-    <option name="LAST_COMMIT_MESSAGE" value="add STR flash game !" />
+    <MESSAGE value="add STR flash game full screen option" />
+    <option name="LAST_COMMIT_MESSAGE" value="add STR flash game full screen option" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="7191">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#section#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/jquery/src/css.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7769">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="170">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="109353" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2771" max-vertical-offset="7616">
+          <caret line="163" column="32" selection-start-line="163" selection-start-column="32" selection-end-line="163" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap/less/glyphicons.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="4063">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/reveal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="26859" max-vertical-offset="32096">
+          <caret line="1592" column="1" selection-start-line="1592" selection-start-column="1" selection-end-line="1592" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme/template/theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="952" max-vertical-offset="2992">
+          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme/sky.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="2499">
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/reveal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="57596">
@@ -805,8 +925,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2945129" vertical-offset="663" max-vertical-offset="7191">
-          <caret line="107" column="75" selection-start-line="107" selection-start-column="75" selection-end-line="107" selection-end-column="75" />
+        <state vertical-scroll-proportion="0.7374429" vertical-offset="1377" max-vertical-offset="7191">
+          <caret line="119" column="25" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#section#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
