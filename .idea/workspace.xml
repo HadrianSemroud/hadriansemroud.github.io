@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="060e8183-55dc-4648-8420-b637266199f0" name="Default" comment="add STR flash game full screen option">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/background-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/batiment_chateau-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/buttongo-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/camiondidierhover-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/camionmarmiton-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/camionretourhud-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/check-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/commandeshud_bourgogne-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/commandeshudvalidée3-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/fermer_reward-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/hudrecompense-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/icon-114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/icon-128.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/icon-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/icon-256.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/icon-32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/level1frame-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/loading-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/pathcrossbottomleft-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/pathleft-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/sprite-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/sprite2-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/sprite2-sheet1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/sprite3-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/stockage-sheet0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/images/tiledbackground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/app.manifest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/c2runtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/jquery-2.0.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marmiton/offline.appcache" />
+    <list default="true" id="060e8183-55dc-4648-8420-b637266199f0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -70,8 +39,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7374429" vertical-offset="1377" max-vertical-offset="7191">
-              <caret line="119" column="25" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.65981734" vertical-offset="1377" max-vertical-offset="7191">
+              <caret line="115" column="81" selection-start-line="115" selection-start-column="81" selection-end-line="115" selection-end-column="81" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#section#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -419,19 +388,24 @@
       <created>1411635201992</created>
       <updated>1411635201992</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="test Marmiton Slides">
+      <created>1414780191882</created>
+      <updated>1414780191882</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17864583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17864583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -441,7 +415,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -495,7 +468,8 @@
     <MESSAGE value="finalize 1 parts (CV contact and Pres)" />
     <MESSAGE value="add STR flash game !" />
     <MESSAGE value="add STR flash game full screen option" />
-    <option name="LAST_COMMIT_MESSAGE" value="add STR flash game full screen option" />
+    <MESSAGE value="test Marmiton Slides" />
+    <option name="LAST_COMMIT_MESSAGE" value="test Marmiton Slides" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -925,8 +899,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7374429" vertical-offset="1377" max-vertical-offset="7191">
-          <caret line="119" column="25" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.65981734" vertical-offset="1377" max-vertical-offset="7191">
+          <caret line="115" column="81" selection-start-line="115" selection-start-column="81" selection-end-line="115" selection-end-column="81" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#section#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
